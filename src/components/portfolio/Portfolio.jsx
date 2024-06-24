@@ -17,7 +17,7 @@ const data =[
     image: IMG2,
     title: 'Personal Portfolio',
     github: 'https://github.com/vishalchauhannn/personal-portfolio',
-    demo: ''
+    demo: 'personal-portfolio-iota-ivory.vercel.app'
   }
   
 ]
