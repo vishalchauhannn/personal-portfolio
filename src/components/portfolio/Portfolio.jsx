@@ -2,6 +2,7 @@ import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/restaurantwebsiteimage.png'
 import IMG2 from '../../assets/IMG2.png'
+import IMG3 from '../../assets/sushiman.png'
 
 
 const data =[
@@ -18,8 +19,14 @@ const data =[
     title: 'Personal Portfolio',
     github: 'https://github.com/vishalchauhannn/personal-portfolio',
     demo: 'personal-portfolio-iota-ivory.vercel.app'
+  },
+  {
+    id:3,
+    image: IMG3,
+    title: 'Sushiman-A Japanese Restaurant',
+    github: 'https://github.com/vishalchauhannn/sushi',
+    demo: 'https://sushi-one-jet.vercel.app/'
   }
-  
 ]
 
 const Portfolio = () => {
